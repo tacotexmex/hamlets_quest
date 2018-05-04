@@ -1,0 +1,2 @@
+Makes stairs and slabs use smaller shapes.
+Fa usare forme piu' piccole a scale e gradini.

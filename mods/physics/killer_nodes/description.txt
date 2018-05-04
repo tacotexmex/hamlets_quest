@@ -1,0 +1,3 @@
+Adds damage to falling nodes and
+torches, increases fire and lava
+damage, adds damage to cacti.

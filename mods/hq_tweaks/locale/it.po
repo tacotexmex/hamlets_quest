@@ -1,0 +1,23 @@
+# ITALIAN LOCALIZATION FOR THE HAMLET'S QUEST TWEAKS MODULE.
+# Copyright (C) 2018 Hamlet <h4mlet@riseup.net>
+# This file is distributed under the CC-BY-SAv4.0 license.
+# Hamlet <h4mlet@riseup.net>, 2017-2018.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Hamlet's Quest Tweaks\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-03-27 17:13+0200\n"
+"PO-Revision-Date: 2018-03-27 17:17+0100\n"
+"Last-Translator: Hamlet <h4mlet@riseup.net>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.10\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: it\n"
+
+#: init.lua
+msgid "Charcoal Block"
+msgstr "blocco di carbonella"

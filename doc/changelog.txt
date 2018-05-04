@@ -1,0 +1,146 @@
+
+
+	Hamlet's Quest - Changelog
+	==========================
+
+	v. 2.2.0 (2018-05-03)
+
+	- Added SFInv Buttons by Wuzzy, check the inventory's "More" tab.
+   - Cavern spawn: Settings/Advanced Settings/Games/Hamlet's Quest
+   - Added Under Sky by Shara Redcat.
+	- Added charcoal block.
+	- Real Minerals' ingots and Default's ingots now can be swapped.
+	- Real Minerals' metal blocks now can be converted into ingots.
+	- Day lenght set to one hour.
+	- Real Torches set to last for 30min max.
+   - 20 hydration pts now last for 30min.
+   - Steel canteen and bronze canteen's capacity: 20, 30 (was 40, 60).
+   - Leaves set to phantom, climbable.
+   - Stone arrows' recipe modified to use rocks or flints, output = 3.
+   - Some DFCaverns' flora nodes now glow.
+   - DFCaverns' "bloodthorns" now hurt.
+   - Cut the number of spawned goblins.
+   - Swords' damage increased of 2pts.
+   - Crocodiles' spawn restricted to river water.
+	- Added Fort Spikes.
+	- Added Extra armors for 3d_armor (v0.2)
+
+
+	v. 2.1.0 (2018-03-02)
+
+	- Disabled cacti and wooden made armors and shields. They were active by mistake.
+	- Improved chains and chandeliers' look.
+	- Added charcoal, crafted by cooking tree nodes.
+	- Added in-game documentation, i.e. encyclopedia and node inspector tool.
+	- Added Real Trees' nodes to Fallen Trees.
+	- Added Hard Trees Redo, that disables digging tree nodes by bare hands; disables wooden pick and axe; adds rocks to dirt nodes; adds sticks to leaves nodes; changes stone tools recipes: you need rocks instead of stone, you can also use flints. Rocks' textures are ugly.
+	- Cacti now do damage; floor torches have been tweaked to damage only if you are standing very close to them or right over them.
+	- Dungeons' chests now use the default Minetest Game's chests.
+	- Dungeons are now made of brighter bricks, the old ones were way too dark.
+	- Balrog mob added; very hard to see one, almost impossible to defeat.
+	- Wooden bucket readded, it was removed by mistake.
+	- Lava buckets removed for realism's sake.
+	- Almost all of the game tweaks have been moved to hq_tweaks.
+	- Night skip while sleeping has been re-enabled for realism's sake.
+	- TNT module added to allow Dungeon Masters fireballs' explosions.
+	- Coal powder - to light torches - now can be crafted by using charcoal also.
+	- ../bash_tools/ files have been updated as needed.
+	- All the modules have been updated to their latest versions.
+
+
+	v. 2.0.0 (2018-01-18)
+
+	- Switched to Minetest Game v0.4.16 as base
+	- Switched to R-0ne's mobs_water module
+	- Added library module by v-rob
+	- Added Simple Arcs module by PEAK extended it to support Darkage's nodes, thanks to Napiophelios
+	- Added Arctic Life module by NathanSalapat
+	- Added Desert Life module by NathanSalapat
+	- Added All Walls module by v-rob
+	- Added ../bash_tools/clean_and_rename.sh
+	- Removed nsspf_remover module
+	- All the modules have been updated to their latest versions
+
+
+	v. 1.2.3-dev (2017-10-07)
+
+	- Minetest Game's modules updated (0.4.17-dev 2017-10-03)
+	- All the other modules have been updated
+
+
+	v. 1.2.2-dev (2017-09-30)
+
+	- Fixed the issue with the sharks stuck on ground
+	- Reduced the ground turtle's size
+
+
+	v. 1.2.1-dev (2017-09-28)
+
+	- Added TS Furniture module.
+
+
+	v. 1.2.1-dev (2017-09-27)
+
+	- Removed duplicated mtg_mods folder
+
+
+	v. 1.2.0-dev (2017-09-27)
+
+	- Updated Minetest Game's modules to 0.4.17-dev (2017-09-21)
+	- Updated all the other modules to their latest versions
+	- Modified settingtypes.txt to allow configuring the Hidden Doors module via Settings/Advanced Settings/Games/Hamlet's Quest
+	- Added Castle Gates module
+	- Added Mob Horse module
+	- Updated ../bash_tools/download.sh and update.sh
+	- Updated ../documents/credits.txt
+
+
+	v. 1.1.1 (2017-09-19)
+	---------------------
+
+	- Added anvil's French and Italian locales.
+	- Modified loot to use Castle Storage's crates.
+
+
+	v. 1.1.0 (2017-09-19)
+	---------------------
+
+	- NSSPF Remover disabled by default, activable via Advanced Settings.
+	- Castle Tapestries added.
+	- Added a third main menu's background image.
+	- Other minor tweaks.
+	- Added ../documents/credits.txt
+	- Added ../bash_tools/download.sh
+	- Added ../bash_tools/update.sh
+
+
+	v. 1.1.2-dev (2017-09-18)
+	-------------------------
+
+	- Updated Minetest Game's modules to 0.4.17-dev (2017-09-17)
+	- All the other modules have been updated to their latest versions.
+	- Mobs' difficulty set to "2", it was "1".
+	- Mobs out of viewing range are now disabled.
+	- HUDBars' order rearranged.
+	- Added a new main menu's background image.
+	- Main menu's background images resized and compressed via pngcrush.
+	- Fixed errors in README.txt.
+
+
+	v. 1.1.1-dev (2017-09-16)
+	-------------------------
+
+	- Disabled Mobs Goblins' glowing cobblestone.
+	- Added Castle Storage support to Loot.
+	- Other minor tweaks and fixes.
+
+
+	v. 1.1.0-dev (2017-09-15)
+	-------------------------
+
+	- Added ../documents/changelog.txt.
+	- Edited README.txt to match Minetest Game's versioning.
+	- Disabled Thirsty's tier 4+ components.
+	- Added Stonebrick Dungeons v. 0.1.0.
+	- Added NSSPF remover v. 0.1.0.
+	- Added Loot

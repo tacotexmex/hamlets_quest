@@ -1,0 +1,31 @@
+
+	MODULO HARD TREES REDO
+	======================
+
+	Impedisce di scavare a pugni gli alberi.
+
+	Versione: 0.1.1
+	Licenza del codice sorgente: GPLv3
+	Licenza di immagini e traduzioni: CC BY-SA 4.0 Internazionale
+
+	Dipendenze: default, farming (presenti in Minetest Game)
+	Supportati: intllib, fallen_nodes, fallen_trees
+
+	Riferite bug o chiedete aiuto sulla discussione del forum:
+	https://forum.minetest.net/viewtopic.php?f=30&t=20004
+
+
+	Installazione
+	=============
+
+	Scomprimete l'archivio, rinominate la cartella in hard_trees_redo e mettetela
+	in	../minetest/mods/
+
+	Se volete che sia usato solo in un mondo, mettetela in
+	../minetest/worlds/NOME_MONDO/worldmods/
+
+	GNU+Linux - se usate una installazione di sistema, mettetela in
+	~/.minetest/mods/
+
+	Per informazioni ulteriori o aiuto si veda:
+	https://wiki.minetest.net/Help:Installing_Mods

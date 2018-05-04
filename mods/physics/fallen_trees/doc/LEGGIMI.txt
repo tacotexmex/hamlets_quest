@@ -1,0 +1,30 @@
+
+	MODULO FALLEN NODES
+	===================
+
+	Aggiunge i nodi albero al gruppo falling_node.
+
+	Versione: 1.2.1
+	Licenza del codice sorgente: GPLv3
+
+	Dipendenze: default (presente in Minetest Game)
+	Supportati: mg, real_trees, desert_life
+
+	Riferite bug o chiedete aiuto sulla discussione del forum:
+	https://forum.minetest.net/viewtopic.php?f=30&t=19995
+
+
+	Installazione
+	=============
+
+	Scomprimete l'archivio, rinominate la cartella in fallen_trees e mettetela in
+	../minetest/mods/
+
+	Se volete che sia usato solo in un mondo, mettetela in
+	../minetest/worlds/NOME_MONDO/worldmods/
+
+	GNU+Linux - se usate una installazione di sistema, mettetela in
+	~/.minetest/mods/
+
+	Per informazioni ulteriori o aiuto si veda:
+	https://wiki.minetest.net/Help:Installing_Mods

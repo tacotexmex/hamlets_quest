@@ -1,0 +1,3 @@
+# Enable Minetest Game's new nodes support?
+# Abilitare il supporto per i nuovi nodi di Minetest Game?
+hard_trees_redo_new (Enable new nodes) bool false

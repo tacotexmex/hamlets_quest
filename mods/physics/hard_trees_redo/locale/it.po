@@ -1,0 +1,27 @@
+# ITALIAN LOCALE FILE FOR THE HARD TREES REDO MODULE
+# Copyright (C) 2018 Hamlet <h4mlet@riseup.net>
+# This file is distributed under the CC BY-SAv4.0 license.
+# Hamlet <h4mlet@riseup.net>, 2018.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Hard Trees Redo v0.1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-02-22 23:14+0100\n"
+"PO-Revision-Date: 2018-02-22 23:18+0100\n"
+"Last-Translator: Hamlet <h4mlet@riseup.net>\n"
+"Language-Team: \n"
+"Language: it\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 1.6.10\n"
+
+#: ../init.lua
+msgid "Rock"
+msgstr "roccia"
+
+#: ../init.lua
+msgid "Desert Rock"
+msgstr "roccia del deserto"

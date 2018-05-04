@@ -1,0 +1,45 @@
+# This file contains settings of minetest_game that can be changed in
+# minetest.conf
+
+#    Should the character be spawned into a cavern on join or death?
+cave_spawn (Cavern spawn) bool false
+
+# Please choose your favorite resolution.
+# Allowed resolutions: 16, 32, 64, 128 (pixels).
+# The default value is 16 pixels.
+hidden_doors_res ([Hidden Doors] Textures' resolution) int 16
+
+# Here you can set your preferred value for the stone made hidden
+# doors' opening and closing sounds, the default value is 5.0
+hidden_doors_vol ([Hidden Doors] Stone doors' sounds volume) float 5.0
+
+#    In creative mode players are able to dig all kind of blocks nearly
+#    instantly, and have access to unlimited resources.
+#    Some of the functionality is only available if this setting is present
+#    at startup.
+creative_mode (Creative mode) bool false
+
+#    Flammable nodes will be ignited by nearby igniters. Spreading fire may
+#    cause severe destruction.
+#    Spreading fire nodes will disappear when fire is disabled, but
+#    'permanent_flame' nodes are unaffected.
+enable_fire (Fire) bool true
+
+#    Enable flame sound.
+flame_sound (Flame sound) bool true
+
+#    Enable lavacooling.
+enable_lavacooling (Lavacooling) bool true
+
+#    The time in seconds after which the bones of a dead player can be looted
+#    by everyone.
+#    Setting this to 0 will disable sharing of bones completely.
+share_bones_time (Bone share time) int 60 0
+
+#    Replaces old stairs with new ones. Only required for older worlds.
+enable_stairs_replace_abm (Replace old stairs) bool false
+
+#    Controls length of day/night cycle.
+#    Examples: 72 = 20min, 360 = 4min, 1 = 24hour, 0 = day/night/whatever stays unchanged.
+#    type: int
+time_speed (Length of day/night) int 24

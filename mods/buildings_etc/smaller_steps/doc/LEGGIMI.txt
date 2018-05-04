@@ -1,0 +1,30 @@
+
+	MODULO SMALLER STEPS
+	====================
+
+	Fa usare forme piu' piccole a scale e gradini.
+
+	Versione: 1.2.3
+	Licenza del codice sorgente: GPLv3
+
+	Dipendenze: default, stairs, farming (presenti in Minetest Game)
+	Supportati: castle_masonry, darkage (versione di Addi)
+
+	Riferite bug o chiedete aiuto sulla discussione del forum:
+	https://forum.minetest.net/viewtopic.php?f=30&t=18523
+
+
+	Installazione
+	=============
+
+	Scomprimete l'archivio, rinominate la cartella in smaller_steps e mettetela
+	in ../minetest/mods/
+
+	Se volete che sia usato solo in un mondo, mettetela in
+	../minetest/worlds/NOME_MONDO/worldmods/
+
+	GNU+Linux - se usate una installazione di sistema, mettetela in
+	~/.minetest/mods/
+
+	Per informazioni ulteriori o aiuto si veda:
+	https://wiki.minetest.net/Help:Installing_Mods

@@ -1,0 +1,3 @@
+# Enable the stairs' corners overriders?
+# Abilitare la ridefinizione delle scale angolari?
+fallen_nodes_corners (Enable stairs' corners) bool false

@@ -1,0 +1,2 @@
+Prevents digging trees by punching them.
+Impedisce di scavare a pugni gli alberi.

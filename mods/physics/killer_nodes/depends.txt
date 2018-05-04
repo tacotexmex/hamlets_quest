@@ -1,0 +1,10 @@
+default
+fire
+castle_masonry?
+darkage?
+desert_life?
+dfcaverns?
+fallen_nodes?
+fallen_trees?
+mg?
+stairs?

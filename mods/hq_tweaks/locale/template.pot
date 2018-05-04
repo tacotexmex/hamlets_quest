@@ -1,0 +1,22 @@
+# LANGUAGE_NAME LOCALIZATION FOR THE GAME HAMLET'S QUEST TWEAKS MODULE.
+# Copyright (C) 2018 Hamlet <h4mlet@riseup.net>
+# This file is distributed under the CC-BY-SAv4.0 license.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Hamlet's Quest Tweaks\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-03-27 17:13+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: init.lua
+msgid "Charcoal Block"
+msgstr ""
